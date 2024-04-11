@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.image{
+    width: 100%;
+    height: 100vh;
+    background-image:url("https://cdn.pixabay.com/photo/2023/12/22/19/56/hinduism-8464313_960_720.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+#wave{
+    position: absolute;
+    bottom: 0;
+}
